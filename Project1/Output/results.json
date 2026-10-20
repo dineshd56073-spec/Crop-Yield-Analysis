@@ -1,0 +1,11 @@
+{
+    "R_squared": 0.6411284085984246,
+    "R_squared_percentage": 64.11,
+    "Regression_coefficients": [
+        -0.00017345712766579107,
+        0.04487104239550959,
+        3.8055120828194253
+    ],
+    "Fertiliser_peak_kg_ha": 129.34332246630123,
+    "Predicted_yield_at_peak": 6.70739693580016
+}
